@@ -3,6 +3,7 @@ This repository is a curated list of pro bono incident response entities.
 This list should only contain entities that offer help for public so that
 people who are searchiung for support canchoose one of the below to get support.
 
+Most of the content is a extract of [Awesome Cyber Civil Society actors list](https://github.com/deralexxx/awesome-cyber-civil-society-actors)
 
 ##Access Now
 > Access Now’s Digital Security Helpline works with individuals and 
